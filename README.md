@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshh99
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
 - 😄 Pronouns: he/him
