@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning JS
 - 😄 Pronouns: he/him
 
 
